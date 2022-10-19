@@ -1,0 +1,31 @@
+body{
+  background-image: linear-gradient(rgba(245, 92, 232, 0.705), rgb(68, 143, 124),
+  rgba(216, 47, 151, 0.404), rgba(179, 82, 175, 0.603));
+    background-size: cover;
+    
+    
+  }
+
+
+
+.jumbotron {
+    background-size: cover;
+    background-image: linear-gradient(rgba(19, 133, 226, 0.705), rgb(37, 228, 180),
+     rgb(48, 180, 92), rgba(32, 190, 253, 0.603));
+    background-repeat: no-repeat;
+    
+    height: 600px;
+    padding-top: 16%;
+      padding-bottom: 20%;
+}
+.card {
+  background-image: linear-gradient(rgba(19, 133, 226, 0.705), rgb(37, 228, 180),
+  rgb(66, 128, 136), rgba(93, 39, 138, 0.603)) ;
+}
+
+.carousel-item{
+  height: 600px;
+} 
+.carousel-item img{
+  height: 600px;
+}
